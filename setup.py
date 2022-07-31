@@ -1,4 +1,4 @@
-token = 'Njk4NzI2NTkyNzY3MzI4Mjc4.Gx-aiB.8jAlxC2y5TrvsfofV4GyPx2AJK3lpYKI1u4Jhw'
+token = 'Njk4NzI2NTkyNzY3MzI4Mjc4.GUIyD8.RI7w-d3rt9Rc92gMpsomaFApRJw94l6YwO8C48'
 
 embed_footer_enabled = True
 embed_footer = "CFNF monitor"
