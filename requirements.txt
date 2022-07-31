@@ -1,0 +1,2 @@
+discord.py-self==1.9.1
+discord-webhook==0.14.0
